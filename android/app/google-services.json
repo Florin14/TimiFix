@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600102961641",
+    "project_id": "timifix-c20c9",
+    "storage_bucket": "timifix-c20c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600102961641:android:8eb901901a781e47900b78",
+        "android_client_info": {
+          "package_name": "com.example.timi_fix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgypkiJEex2K_hHh4xPtdNrkAHPNrUx8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
