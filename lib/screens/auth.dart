@@ -85,7 +85,7 @@ class _AuthScreenState extends State<AuthScreen> {
         await _auth.signUpWithEmailAndPassword(_enteredEmail, _enteredPassword);
     if (user != null) {
       print("User is successfully created");
-      Navigator.pushNamed(context, "/home");
+      Navigator.pushNamed(context, "/login");
     } else {
       print("Some error happened");
     }

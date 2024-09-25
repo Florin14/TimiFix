@@ -8,7 +8,7 @@ import 'package:http/http.dart' as http;
 class NewsRepository {
 
 
-  Future<dynamic> fetchNewsCategoires(String category) async {
+  Future<dynamic> fetchNewsCategories(String category) async {
     
   }
 
