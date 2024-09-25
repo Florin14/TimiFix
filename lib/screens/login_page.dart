@@ -203,7 +203,7 @@ class _LoginPageState extends State<LoginPage> {
     //     );
 
     //     await _firebaseAuth.signInWithCredential(credential);
-    //     Navigator.pushNamed(context, "/home");
+    //     Navigator.pushNamed(context, "/login");
     //   }
     // } catch (e) {
     //   showToast(message: "some error occured $e");
