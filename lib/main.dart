@@ -45,7 +45,7 @@ class App extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Instagram Clone',
+        title: 'TimiFix',
         theme: ThemeData.dark().copyWith(
           scaffoldBackgroundColor: Color.fromRGBO(0, 0, 0, 1),
         ),
